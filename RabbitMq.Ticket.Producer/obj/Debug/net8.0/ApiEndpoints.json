@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "RabbitMq.Ticket.Producer.Controllers.TicketGenerator",
+    "Method": "TicketCreation",
+    "RelativePath": "Ticket/GeneratorTicket",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ticketModel",
+        "Type": "RabbitMq.Ticket.Producer.Model.TicketModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

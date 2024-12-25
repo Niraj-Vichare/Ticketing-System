@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Niraj Vichare\\source\\repos\\RabbitMq.AssignAgent.Consumer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80160605-4FF6-4B88-8332-FFD0277ED7F1}|RabbitMq.AssignAgent.Consumer.csproj|c:\\users\\niraj vichare\\source\\repos\\rabbitmq.assignagent.consumer\\services\\assignservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80160605-4FF6-4B88-8332-FFD0277ED7F1}|RabbitMq.AssignAgent.Consumer.csproj|solutionrelative:services\\assignservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80160605-4FF6-4B88-8332-FFD0277ED7F1}|RabbitMq.AssignAgent.Consumer.csproj|c:\\users\\niraj vichare\\source\\repos\\rabbitmq.assignagent.consumer\\services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80160605-4FF6-4B88-8332-FFD0277ED7F1}|RabbitMq.AssignAgent.Consumer.csproj|solutionrelative:services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80160605-4FF6-4B88-8332-FFD0277ED7F1}|RabbitMq.AssignAgent.Consumer.csproj|c:\\users\\niraj vichare\\source\\repos\\rabbitmq.assignagent.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80160605-4FF6-4B88-8332-FFD0277ED7F1}|RabbitMq.AssignAgent.Consumer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80160605-4FF6-4B88-8332-FFD0277ED7F1}|RabbitMq.AssignAgent.Consumer.csproj|c:\\users\\niraj vichare\\source\\repos\\rabbitmq.assignagent.consumer\\queueconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80160605-4FF6-4B88-8332-FFD0277ED7F1}|RabbitMq.AssignAgent.Consumer.csproj|solutionrelative:queueconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QueueConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Niraj Vichare\\source\\repos\\RabbitMq.AssignAgent.Consumer\\QueueConsumer.cs",
+              "RelativeDocumentMoniker": "QueueConsumer.cs",
+              "ToolTip": "C:\\Users\\Niraj Vichare\\source\\repos\\RabbitMq.AssignAgent.Consumer\\QueueConsumer.cs",
+              "RelativeToolTip": "QueueConsumer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAArwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:35:56.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueueService.cs",
+              "DocumentMoniker": "C:\\Users\\Niraj Vichare\\source\\repos\\RabbitMq.AssignAgent.Consumer\\Services\\QueueService.cs",
+              "RelativeDocumentMoniker": "Services\\QueueService.cs",
+              "ToolTip": "C:\\Users\\Niraj Vichare\\source\\repos\\RabbitMq.AssignAgent.Consumer\\Services\\QueueService.cs",
+              "RelativeToolTip": "Services\\QueueService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAMwCsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:30:47.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssignService.cs",
+              "DocumentMoniker": "C:\\Users\\Niraj Vichare\\source\\repos\\RabbitMq.AssignAgent.Consumer\\Services\\AssignService.cs",
+              "RelativeDocumentMoniker": "Services\\AssignService.cs",
+              "ToolTip": "C:\\Users\\Niraj Vichare\\source\\repos\\RabbitMq.AssignAgent.Consumer\\Services\\AssignService.cs",
+              "RelativeToolTip": "Services\\AssignService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:11:33.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Niraj Vichare\\source\\repos\\RabbitMq.AssignAgent.Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Niraj Vichare\\source\\repos\\RabbitMq.AssignAgent.Consumer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:14:39.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

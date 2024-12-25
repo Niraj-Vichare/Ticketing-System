@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSCODE PROJECT\\RabbitMQ\\RabbitMq.Ticket.Producer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72CB9124-6B90-406E-BFAC-5245D61DEF1E}|RabbitMq.Ticket.Producer.csproj|d:\\vscode project\\rabbitmq\\rabbitmq.ticket.producer\\service\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CB9124-6B90-406E-BFAC-5245D61DEF1E}|RabbitMq.Ticket.Producer.csproj|solutionrelative:service\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CB9124-6B90-406E-BFAC-5245D61DEF1E}|RabbitMq.Ticket.Producer.csproj|d:\\vscode project\\rabbitmq\\rabbitmq.ticket.producer\\controllers\\ticketgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CB9124-6B90-406E-BFAC-5245D61DEF1E}|RabbitMq.Ticket.Producer.csproj|solutionrelative:controllers\\ticketgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CB9124-6B90-406E-BFAC-5245D61DEF1E}|RabbitMq.Ticket.Producer.csproj|d:\\vscode project\\rabbitmq\\rabbitmq.ticket.producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CB9124-6B90-406E-BFAC-5245D61DEF1E}|RabbitMq.Ticket.Producer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CB9124-6B90-406E-BFAC-5245D61DEF1E}|RabbitMq.Ticket.Producer.csproj|d:\\vscode project\\rabbitmq\\rabbitmq.ticket.producer\\model\\ticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CB9124-6B90-406E-BFAC-5245D61DEF1E}|RabbitMq.Ticket.Producer.csproj|solutionrelative:model\\ticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CB9124-6B90-406E-BFAC-5245D61DEF1E}|RabbitMq.Ticket.Producer.csproj|d:\\vscode project\\rabbitmq\\rabbitmq.ticket.producer\\enums\\ticketenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CB9124-6B90-406E-BFAC-5245D61DEF1E}|RabbitMq.Ticket.Producer.csproj|solutionrelative:enums\\ticketenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueueService.cs",
+              "DocumentMoniker": "D:\\VSCODE PROJECT\\RabbitMQ\\RabbitMq.Ticket.Producer\\Service\\QueueService.cs",
+              "RelativeDocumentMoniker": "Service\\QueueService.cs",
+              "ToolTip": "D:\\VSCODE PROJECT\\RabbitMQ\\RabbitMq.Ticket.Producer\\Service\\QueueService.cs",
+              "RelativeToolTip": "Service\\QueueService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:11:33.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketEnums.cs",
+              "DocumentMoniker": "D:\\VSCODE PROJECT\\RabbitMQ\\RabbitMq.Ticket.Producer\\Enums\\TicketEnums.cs",
+              "RelativeDocumentMoniker": "Enums\\TicketEnums.cs",
+              "ToolTip": "D:\\VSCODE PROJECT\\RabbitMQ\\RabbitMq.Ticket.Producer\\Enums\\TicketEnums.cs",
+              "RelativeToolTip": "Enums\\TicketEnums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:58:22.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketModel.cs",
+              "DocumentMoniker": "D:\\VSCODE PROJECT\\RabbitMQ\\RabbitMq.Ticket.Producer\\Model\\TicketModel.cs",
+              "RelativeDocumentMoniker": "Model\\TicketModel.cs",
+              "ToolTip": "D:\\VSCODE PROJECT\\RabbitMQ\\RabbitMq.Ticket.Producer\\Model\\TicketModel.cs",
+              "RelativeToolTip": "Model\\TicketModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:56:44.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketGenerator.cs",
+              "DocumentMoniker": "D:\\VSCODE PROJECT\\RabbitMQ\\RabbitMq.Ticket.Producer\\Controllers\\TicketGenerator.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketGenerator.cs",
+              "ToolTip": "D:\\VSCODE PROJECT\\RabbitMQ\\RabbitMq.Ticket.Producer\\Controllers\\TicketGenerator.cs",
+              "RelativeToolTip": "Controllers\\TicketGenerator.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:55:17.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VSCODE PROJECT\\RabbitMQ\\RabbitMq.Ticket.Producer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\VSCODE PROJECT\\RabbitMQ\\RabbitMq.Ticket.Producer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAArwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:54:25.208Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
